@@ -1,0 +1,5 @@
+https://docs.ambientcg.com/license/
+
+All ambientCG assets are provided under the
+Creative Commons CC0 1.0 Universal License.
+This applies to the downloadable asset files and the material preview renders shown for each asset on the site.
