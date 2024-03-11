@@ -1287,10 +1287,20 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 1253177801}
     m_Modifications:
+    - target: {fileID: 823532419440645910, guid: 1fa36f52cbdc9ec47a698eda04a87ff6,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
+      objectReference: {fileID: 0}
     - target: {fileID: 1158664517642550017, guid: 1fa36f52cbdc9ec47a698eda04a87ff6,
         type: 3}
       propertyPath: m_Name
       value: soudensen-tettou_with_wire_v1-2-1 (8)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1158664517642550017, guid: 1fa36f52cbdc9ec47a698eda04a87ff6,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
       objectReference: {fileID: 0}
     - target: {fileID: 1972496999259218363, guid: 1fa36f52cbdc9ec47a698eda04a87ff6,
         type: 3}
@@ -1347,10 +1357,25 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 4999814256440423646, guid: 1fa36f52cbdc9ec47a698eda04a87ff6,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
+      objectReference: {fileID: 0}
+    - target: {fileID: 5595608552696944402, guid: 1fa36f52cbdc9ec47a698eda04a87ff6,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
+      objectReference: {fileID: 0}
     - target: {fileID: 8800601205097311600, guid: 1fa36f52cbdc9ec47a698eda04a87ff6,
         type: 3}
       propertyPath: m_Layer
       value: 29
+      objectReference: {fileID: 0}
+    - target: {fileID: 8800601205097311600, guid: 1fa36f52cbdc9ec47a698eda04a87ff6,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 1fa36f52cbdc9ec47a698eda04a87ff6, type: 3}
@@ -1485,10 +1510,20 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 1253177801}
     m_Modifications:
+    - target: {fileID: 823532419440645910, guid: 1fa36f52cbdc9ec47a698eda04a87ff6,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
+      objectReference: {fileID: 0}
     - target: {fileID: 1158664517642550017, guid: 1fa36f52cbdc9ec47a698eda04a87ff6,
         type: 3}
       propertyPath: m_Name
       value: soudensen-tettou_with_wire_v1-2-1 (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1158664517642550017, guid: 1fa36f52cbdc9ec47a698eda04a87ff6,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
       objectReference: {fileID: 0}
     - target: {fileID: 1972496999259218363, guid: 1fa36f52cbdc9ec47a698eda04a87ff6,
         type: 3}
@@ -1545,10 +1580,25 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 4999814256440423646, guid: 1fa36f52cbdc9ec47a698eda04a87ff6,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
+      objectReference: {fileID: 0}
+    - target: {fileID: 5595608552696944402, guid: 1fa36f52cbdc9ec47a698eda04a87ff6,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
+      objectReference: {fileID: 0}
     - target: {fileID: 8800601205097311600, guid: 1fa36f52cbdc9ec47a698eda04a87ff6,
         type: 3}
       propertyPath: m_Layer
       value: 29
+      objectReference: {fileID: 0}
+    - target: {fileID: 8800601205097311600, guid: 1fa36f52cbdc9ec47a698eda04a87ff6,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 1fa36f52cbdc9ec47a698eda04a87ff6, type: 3}
@@ -7392,7 +7442,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 4294967295
   m_IsActive: 1
 --- !u!136 &457690799
 CapsuleCollider:
@@ -7824,7 +7874,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 4294967295
   m_IsActive: 1
 --- !u!4 &531160488
 Transform:
@@ -8220,10 +8270,20 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 1253177801}
     m_Modifications:
+    - target: {fileID: 823532419440645910, guid: 1fa36f52cbdc9ec47a698eda04a87ff6,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
+      objectReference: {fileID: 0}
     - target: {fileID: 1158664517642550017, guid: 1fa36f52cbdc9ec47a698eda04a87ff6,
         type: 3}
       propertyPath: m_Name
       value: soudensen-tettou_with_wire_v1-2-1 (2)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1158664517642550017, guid: 1fa36f52cbdc9ec47a698eda04a87ff6,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
       objectReference: {fileID: 0}
     - target: {fileID: 1972496999259218363, guid: 1fa36f52cbdc9ec47a698eda04a87ff6,
         type: 3}
@@ -8280,10 +8340,25 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 4999814256440423646, guid: 1fa36f52cbdc9ec47a698eda04a87ff6,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
+      objectReference: {fileID: 0}
+    - target: {fileID: 5595608552696944402, guid: 1fa36f52cbdc9ec47a698eda04a87ff6,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
+      objectReference: {fileID: 0}
     - target: {fileID: 8800601205097311600, guid: 1fa36f52cbdc9ec47a698eda04a87ff6,
         type: 3}
       propertyPath: m_Layer
       value: 29
+      objectReference: {fileID: 0}
+    - target: {fileID: 8800601205097311600, guid: 1fa36f52cbdc9ec47a698eda04a87ff6,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 1fa36f52cbdc9ec47a698eda04a87ff6, type: 3}
@@ -8379,10 +8454,20 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 1253177801}
     m_Modifications:
+    - target: {fileID: 823532419440645910, guid: 1fa36f52cbdc9ec47a698eda04a87ff6,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
+      objectReference: {fileID: 0}
     - target: {fileID: 1158664517642550017, guid: 1fa36f52cbdc9ec47a698eda04a87ff6,
         type: 3}
       propertyPath: m_Name
       value: soudensen-tettou_with_wire_v1-2-1 (7)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1158664517642550017, guid: 1fa36f52cbdc9ec47a698eda04a87ff6,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
       objectReference: {fileID: 0}
     - target: {fileID: 1972496999259218363, guid: 1fa36f52cbdc9ec47a698eda04a87ff6,
         type: 3}
@@ -8439,10 +8524,25 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 4999814256440423646, guid: 1fa36f52cbdc9ec47a698eda04a87ff6,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
+      objectReference: {fileID: 0}
+    - target: {fileID: 5595608552696944402, guid: 1fa36f52cbdc9ec47a698eda04a87ff6,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
+      objectReference: {fileID: 0}
     - target: {fileID: 8800601205097311600, guid: 1fa36f52cbdc9ec47a698eda04a87ff6,
         type: 3}
       propertyPath: m_Layer
       value: 29
+      objectReference: {fileID: 0}
+    - target: {fileID: 8800601205097311600, guid: 1fa36f52cbdc9ec47a698eda04a87ff6,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 1fa36f52cbdc9ec47a698eda04a87ff6, type: 3}
@@ -21252,10 +21352,20 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 1253177801}
     m_Modifications:
+    - target: {fileID: 823532419440645910, guid: 1fa36f52cbdc9ec47a698eda04a87ff6,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
+      objectReference: {fileID: 0}
     - target: {fileID: 1158664517642550017, guid: 1fa36f52cbdc9ec47a698eda04a87ff6,
         type: 3}
       propertyPath: m_Name
       value: soudensen-tettou_with_wire_v1-2-1 (3)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1158664517642550017, guid: 1fa36f52cbdc9ec47a698eda04a87ff6,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
       objectReference: {fileID: 0}
     - target: {fileID: 1972496999259218363, guid: 1fa36f52cbdc9ec47a698eda04a87ff6,
         type: 3}
@@ -21312,10 +21422,25 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 4999814256440423646, guid: 1fa36f52cbdc9ec47a698eda04a87ff6,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
+      objectReference: {fileID: 0}
+    - target: {fileID: 5595608552696944402, guid: 1fa36f52cbdc9ec47a698eda04a87ff6,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
+      objectReference: {fileID: 0}
     - target: {fileID: 8800601205097311600, guid: 1fa36f52cbdc9ec47a698eda04a87ff6,
         type: 3}
       propertyPath: m_Layer
       value: 29
+      objectReference: {fileID: 0}
+    - target: {fileID: 8800601205097311600, guid: 1fa36f52cbdc9ec47a698eda04a87ff6,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 1fa36f52cbdc9ec47a698eda04a87ff6, type: 3}
@@ -21615,6 +21740,11 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 1173466082}
     m_Modifications:
+    - target: {fileID: 2147672100165316729, guid: 2385fee64a18c734d815654086205641,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
+      objectReference: {fileID: 0}
     - target: {fileID: 7066955950053219046, guid: 2385fee64a18c734d815654086205641,
         type: 3}
       propertyPath: m_RootOrder
@@ -21674,6 +21804,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: ResupplyZone (2)
+      objectReference: {fileID: 0}
+    - target: {fileID: 7066955950053574342, guid: 2385fee64a18c734d815654086205641,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 2385fee64a18c734d815654086205641, type: 3}
@@ -21849,10 +21984,20 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 1253177801}
     m_Modifications:
+    - target: {fileID: 823532419440645910, guid: 1fa36f52cbdc9ec47a698eda04a87ff6,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
+      objectReference: {fileID: 0}
     - target: {fileID: 1158664517642550017, guid: 1fa36f52cbdc9ec47a698eda04a87ff6,
         type: 3}
       propertyPath: m_Name
       value: soudensen-tettou_with_wire_v1-2-1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1158664517642550017, guid: 1fa36f52cbdc9ec47a698eda04a87ff6,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
       objectReference: {fileID: 0}
     - target: {fileID: 1972496999259218363, guid: 1fa36f52cbdc9ec47a698eda04a87ff6,
         type: 3}
@@ -21909,10 +22054,25 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 4999814256440423646, guid: 1fa36f52cbdc9ec47a698eda04a87ff6,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
+      objectReference: {fileID: 0}
+    - target: {fileID: 5595608552696944402, guid: 1fa36f52cbdc9ec47a698eda04a87ff6,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
+      objectReference: {fileID: 0}
     - target: {fileID: 8800601205097311600, guid: 1fa36f52cbdc9ec47a698eda04a87ff6,
         type: 3}
       propertyPath: m_Layer
       value: 29
+      objectReference: {fileID: 0}
+    - target: {fileID: 8800601205097311600, guid: 1fa36f52cbdc9ec47a698eda04a87ff6,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 1fa36f52cbdc9ec47a698eda04a87ff6, type: 3}
@@ -21932,7 +22092,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 4294967295
   m_IsActive: 1
 --- !u!23 &1012701461
 MeshRenderer:
@@ -27831,6 +27991,11 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 1173466082}
     m_Modifications:
+    - target: {fileID: 2147672100165316729, guid: 2385fee64a18c734d815654086205641,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
+      objectReference: {fileID: 0}
     - target: {fileID: 7066955950053219046, guid: 2385fee64a18c734d815654086205641,
         type: 3}
       propertyPath: m_RootOrder
@@ -27890,6 +28055,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: ResupplyZone (3)
+      objectReference: {fileID: 0}
+    - target: {fileID: 7066955950053574342, guid: 2385fee64a18c734d815654086205641,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 2385fee64a18c734d815654086205641, type: 3}
@@ -32665,7 +32835,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 4294967295
   m_IsActive: 1
 --- !u!4 &1173069727
 Transform:
@@ -32804,7 +32974,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 4294967295
   m_IsActive: 1
 --- !u!4 &1173466082
 Transform:
@@ -33060,7 +33230,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 4294967295
   m_IsActive: 1
 --- !u!4 &1253177801
 Transform:
@@ -33103,7 +33273,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 4294967295
   m_IsActive: 1
 --- !u!4 &1273764404
 Transform:
@@ -38062,10 +38232,20 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 1253177801}
     m_Modifications:
+    - target: {fileID: 823532419440645910, guid: 1fa36f52cbdc9ec47a698eda04a87ff6,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
+      objectReference: {fileID: 0}
     - target: {fileID: 1158664517642550017, guid: 1fa36f52cbdc9ec47a698eda04a87ff6,
         type: 3}
       propertyPath: m_Name
       value: soudensen-tettou_with_wire_v1-2-1 (4)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1158664517642550017, guid: 1fa36f52cbdc9ec47a698eda04a87ff6,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
       objectReference: {fileID: 0}
     - target: {fileID: 1972496999259218363, guid: 1fa36f52cbdc9ec47a698eda04a87ff6,
         type: 3}
@@ -38122,10 +38302,25 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 4999814256440423646, guid: 1fa36f52cbdc9ec47a698eda04a87ff6,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
+      objectReference: {fileID: 0}
+    - target: {fileID: 5595608552696944402, guid: 1fa36f52cbdc9ec47a698eda04a87ff6,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
+      objectReference: {fileID: 0}
     - target: {fileID: 8800601205097311600, guid: 1fa36f52cbdc9ec47a698eda04a87ff6,
         type: 3}
       propertyPath: m_Layer
       value: 29
+      objectReference: {fileID: 0}
+    - target: {fileID: 8800601205097311600, guid: 1fa36f52cbdc9ec47a698eda04a87ff6,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 1fa36f52cbdc9ec47a698eda04a87ff6, type: 3}
@@ -38333,10 +38528,20 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 1253177801}
     m_Modifications:
+    - target: {fileID: 823532419440645910, guid: 1fa36f52cbdc9ec47a698eda04a87ff6,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
+      objectReference: {fileID: 0}
     - target: {fileID: 1158664517642550017, guid: 1fa36f52cbdc9ec47a698eda04a87ff6,
         type: 3}
       propertyPath: m_Name
       value: soudensen-tettou_with_wire_v1-2-1 (6)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1158664517642550017, guid: 1fa36f52cbdc9ec47a698eda04a87ff6,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
       objectReference: {fileID: 0}
     - target: {fileID: 1972496999259218363, guid: 1fa36f52cbdc9ec47a698eda04a87ff6,
         type: 3}
@@ -38393,10 +38598,25 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 4999814256440423646, guid: 1fa36f52cbdc9ec47a698eda04a87ff6,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
+      objectReference: {fileID: 0}
+    - target: {fileID: 5595608552696944402, guid: 1fa36f52cbdc9ec47a698eda04a87ff6,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
+      objectReference: {fileID: 0}
     - target: {fileID: 8800601205097311600, guid: 1fa36f52cbdc9ec47a698eda04a87ff6,
         type: 3}
       propertyPath: m_Layer
       value: 29
+      objectReference: {fileID: 0}
+    - target: {fileID: 8800601205097311600, guid: 1fa36f52cbdc9ec47a698eda04a87ff6,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 1fa36f52cbdc9ec47a698eda04a87ff6, type: 3}
@@ -43258,6 +43478,11 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 1173466082}
     m_Modifications:
+    - target: {fileID: 2147672100165316729, guid: 2385fee64a18c734d815654086205641,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
+      objectReference: {fileID: 0}
     - target: {fileID: 7066955950053219046, guid: 2385fee64a18c734d815654086205641,
         type: 3}
       propertyPath: m_RootOrder
@@ -43317,6 +43542,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: ResupplyZone (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 7066955950053574342, guid: 2385fee64a18c734d815654086205641,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 2385fee64a18c734d815654086205641, type: 3}
@@ -43587,10 +43817,20 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 1253177801}
     m_Modifications:
+    - target: {fileID: 823532419440645910, guid: 1fa36f52cbdc9ec47a698eda04a87ff6,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
+      objectReference: {fileID: 0}
     - target: {fileID: 1158664517642550017, guid: 1fa36f52cbdc9ec47a698eda04a87ff6,
         type: 3}
       propertyPath: m_Name
       value: soudensen-tettou_with_wire_v1-2-1 (5)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1158664517642550017, guid: 1fa36f52cbdc9ec47a698eda04a87ff6,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
       objectReference: {fileID: 0}
     - target: {fileID: 1972496999259218363, guid: 1fa36f52cbdc9ec47a698eda04a87ff6,
         type: 3}
@@ -43647,10 +43887,25 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 4999814256440423646, guid: 1fa36f52cbdc9ec47a698eda04a87ff6,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
+      objectReference: {fileID: 0}
+    - target: {fileID: 5595608552696944402, guid: 1fa36f52cbdc9ec47a698eda04a87ff6,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
+      objectReference: {fileID: 0}
     - target: {fileID: 8800601205097311600, guid: 1fa36f52cbdc9ec47a698eda04a87ff6,
         type: 3}
       propertyPath: m_Layer
       value: 29
+      objectReference: {fileID: 0}
+    - target: {fileID: 8800601205097311600, guid: 1fa36f52cbdc9ec47a698eda04a87ff6,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 1fa36f52cbdc9ec47a698eda04a87ff6, type: 3}
@@ -43676,7 +43931,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 4294967295
   m_IsActive: 1
 --- !u!23 &1503143656
 MeshRenderer:
@@ -44791,7 +45046,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 4294967295
   m_IsActive: 1
 --- !u!4 &1615689405
 Transform:
@@ -50736,7 +50991,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 4294967295
   m_IsActive: 1
 --- !u!23 &1845717367
 MeshRenderer:
@@ -52057,6 +52312,11 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 1173466082}
     m_Modifications:
+    - target: {fileID: 2147672100165316729, guid: 2385fee64a18c734d815654086205641,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
+      objectReference: {fileID: 0}
     - target: {fileID: 7066955950053219046, guid: 2385fee64a18c734d815654086205641,
         type: 3}
       propertyPath: m_RootOrder
@@ -52116,6 +52376,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: ResupplyZone
+      objectReference: {fileID: 0}
+    - target: {fileID: 7066955950053574342, guid: 2385fee64a18c734d815654086205641,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 2385fee64a18c734d815654086205641, type: 3}
@@ -52214,7 +52479,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 4294967295
   m_IsActive: 1
 --- !u!23 &2101473382
 MeshRenderer:
@@ -52703,7 +52968,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 4294967295
   m_IsActive: 1
 --- !u!23 &1376662634774617039
 MeshRenderer:
@@ -55868,7 +56133,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 4294967295
   m_IsActive: 1
 --- !u!64 &8800601206022904620
 MeshCollider:
