@@ -20,6 +20,8 @@ Assets/SaccFlightAndVehicles/Scripts/Other/SaccFlightVehicleMenu.cs
 Assets/SaccFlightAndVehicles/Udon/SaccFlightVehicleMenu.asset
 ```
 
+#### Put the PowerLineMarkerBalls folder into your Assets folder.
+
 #### Rename layers used in SaccFlight.
 UNITY MENU -> SaccFlight -> RenameLayers
 
@@ -41,5 +43,3 @@ UiMenu/MarkerBall
 Walkthrough/MarkerBall
 Wire/MarkerBall
 ```
-
-#### Put the PowerLineMarkerBalls folder into your Assets folder.
