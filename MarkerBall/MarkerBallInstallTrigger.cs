@@ -20,7 +20,6 @@ public class MarkerBallInstallTrigger : UdonSharpBehaviour
     private float Progress = 0;
     private float ProgressMax = 10;
     private bool Installed = false;
-    private float InstalledTime = 0;
     private void Initialize()
     {
         ThisCollider = gameObject.GetComponent<Collider>();
@@ -38,23 +37,17 @@ public class MarkerBallInstallTrigger : UdonSharpBehaviour
                 {
                     MarkerBallObjectSync.SetKinematic(true);
                     Installed = true;
-                    InstalledTime = Time.time;
-                    Progress = 0;
                     ProgressParticle.Stop();
-                    ProgressParticle.Clear();
                 }
-                else 
-                {
-                    if(!ProgressParticle.isPlaying)
-                    {
-                        ProgressParticle.Play();
-                    }
-                    
-                }
+            }
+
+            if (!ProgressParticle.isPlaying)
+            {
+                ProgressParticle.Play();
             }
         }
 
-        if (!OnWire && Time.time > (InstalledTime + 0.1))
+        if (!OnWire)
         {
             Progress = 0;
             ProgressParticle.Stop();
@@ -68,7 +61,7 @@ public class MarkerBallInstallTrigger : UdonSharpBehaviour
         }
 
     }
-        private void OnTriggerEnter(Collider other)
+    private void OnTriggerEnter(Collider other)
     {
         if (other && other.gameObject.layer == WireLayer)
         {
@@ -103,4 +96,5 @@ public class MarkerBallInstallTrigger : UdonSharpBehaviour
         OnWire = false;
         NumTriggers = 0;
     }
+    
 }

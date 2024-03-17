@@ -1,0 +1,7 @@
+Changelog
+--------------------------------------------------------------------------------
+v1.1.0
+Progress particles are made smaller and do not disappear even when the ball fixed.
+
+Cleaned up the marker ball source code.
+--------------------------------------------------------------------------------
