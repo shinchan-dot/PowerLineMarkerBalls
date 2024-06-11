@@ -9566,6 +9566,11 @@ PrefabInstance:
         type: 2}
     - target: {fileID: 4495917116959111377, guid: b40d43aba28f9f14aa91c06920c197ed,
         type: 3}
+      propertyPath: RadioBase
+      value: 
+      objectReference: {fileID: 7633695117498572471}
+    - target: {fileID: 4495917116959111377, guid: b40d43aba28f9f14aa91c06920c197ed,
+        type: 3}
       propertyPath: serializationData.Prefab
       value: 
       objectReference: {fileID: 4495917116959111377, guid: b40d43aba28f9f14aa91c06920c197ed,
