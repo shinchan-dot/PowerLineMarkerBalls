@@ -1,5 +1,10 @@
 Changelog
 --------------------------------------------------------------------------------
+v1.1.1
+Fixed the second heli's radio.
+
+Fixed the marker balls respawner.
+--------------------------------------------------------------------------------
 v1.1.0
 Progress particles are made smaller and do not disappear even when the ball fixed.
 
