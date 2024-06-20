@@ -2,6 +2,8 @@
 using UdonSharp;
 using UnityEngine;
 using VRC.SDK3.Components;
+using VRC.SDKBase;
+using UnityEngine.UI;
 
 [UdonBehaviourSyncMode(BehaviourSyncMode.Continuous)]
 
@@ -12,13 +14,15 @@ public class MarkerBallInstallTrigger : UdonSharpBehaviour
     public float OperationInitialDelay = 1;
     public float OperationDelay = 0.5f;
     public int WireLayer = 29;
+    public float ProgressMax = 10;
+    public Text OwnerText;
+    public Rigidbody MarkerBallRigidbody;
     private float LastOperationTime = 0;
     private int NumTriggers = 0;
     private bool OnWire;
     private Collider ThisCollider;
     private bool Initialized = false;
     private float Progress = 0;
-    private float ProgressMax = 10;
     private bool Installed = false;
     private void Initialize()
     {
@@ -26,39 +30,45 @@ public class MarkerBallInstallTrigger : UdonSharpBehaviour
     }
     private void Update()
     {
-        if (OnWire && !Installed)
+        if (OnWire)
         {
-            if (Time.time - LastOperationTime > OperationDelay)
+            if (!Installed)
             {
-                LastOperationTime = Time.time;
-                Progress += OperationDelay;
-
-                if (Progress > ProgressMax)
+                if (!ProgressParticle.isPlaying)
                 {
-                    MarkerBallObjectSync.SetKinematic(true);
-                    Installed = true;
-                    ProgressParticle.Stop();
+                    ProgressParticle.Play();
+                }
+
+                if (Time.time - LastOperationTime > OperationDelay)
+                {
+                    LastOperationTime = Time.time;
+                    Progress += OperationDelay;
+
+                    if (Progress > ProgressMax)
+                    {
+                        MarkerBallObjectSync.SetKinematic(true);
+                        Installed = true;
+                        ProgressParticle.Stop();
+                    }
                 }
             }
-
-            if (!ProgressParticle.isPlaying)
-            {
-                ProgressParticle.Play();
-            }
         }
-
-        if (!OnWire)
+        else
         {
             Progress = 0;
             ProgressParticle.Stop();
             ProgressParticle.Clear();
-
-            if (Installed)
-            {
-                Installed = false;
-                MarkerBallObjectSync.SetKinematic(false);
-            }
+            Installed = false;
+            MarkerBallObjectSync.SetKinematic(false);
         }
+
+        //DEBUG
+        /*
+        if (OwnerText)
+        {
+            OwnerText.text = Networking.GetOwner(MarkerBallObjectSync.gameObject).displayName + " Installed=" + Installed + " OnWire=" + OnWire + " IsKinematic=" + MarkerBallRigidbody.isKinematic;
+        }
+        */
 
     }
     private void OnTriggerEnter(Collider other)
