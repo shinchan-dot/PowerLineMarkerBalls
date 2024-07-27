@@ -5,7 +5,7 @@ This is a VRChart world with helicopters.
 ## To create your project
 #### Create a new world project with VRChat Creator Companion.
 
-#### Import iwaSync3_v3.6.0.
+#### Import iwaSync3_v3.6.6.
 
 #### Install SaccFlightAndVehicles 1.64.
 
